@@ -1,0 +1,45 @@
+body{
+  margin: 0;
+}
+
+.nav {
+  display: flex;
+}
+
+nav {
+  background-color: black;
+  color: white;
+}
+
+.nba-logo{
+padding-left: 20px;
+}
+
+.title {
+  margin-left: 700px;
+  font-size: 24px;
+}
+
+h2, p, blockquote, ul {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+a {
+  display: block; 
+  margin-left: auto; 
+  margin-right: auto; 
+  width: 5%;
+}
